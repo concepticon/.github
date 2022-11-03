@@ -3,7 +3,7 @@ ranging from Swadesh lists in historical linguistics to naming tests in clinical
 
 The resulting Concepticon (in the sense of [Poornima and Good 2010](https://aclanthology.org/W10-2101.pdf)) facilitates
 - comparison of lexical data across languages and collection contexts and
-- cross-linguistic comparison of data associated with word forms or concepts collected in the NoRaRe sub-project.
+- cross-linguistic comparison of data associated with words and concepts collected in the NoRaRe sub-project.
 
 The curation and publication of the Concepticon and NoRaRe data are organized as follows:
 
